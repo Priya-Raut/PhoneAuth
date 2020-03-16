@@ -1,0 +1,40 @@
+p{
+  "project_info": {
+    "project_number": "927408872816",
+    "firebase_url": "https://earnest-fintech.firebaseio.com",
+    "project_id": "earnest-fintech",
+    "storage_bucket": "earnest-fintech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927408872816:android:668393b1662fac6c0143b5",
+        "android_client_info": {
+          "package_name": "com.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927408872816-u3775r42f7o93btav52ggco2ta3l2skp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnK1k_eSEpUwFgEBAMde0iIvgXmxlkcDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927408872816-u3775r42f7o93btav52ggco2ta3l2skp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
